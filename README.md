@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil do GitHub. 👋
 ## Olá! Eu sou a Stefany Matos 😊
 
-### Veja meus trabalhos ou entre em conato em: 
+### Veja meus trabalhos ou entre em contato em: 
 
 ## Contatos 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stefanyy_mendonca/)
