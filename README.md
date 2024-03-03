@@ -4,9 +4,11 @@
 ### Veja meus trabalhos ou entre em conato em: 
 
 ## Contatos 🌐
-  [https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white]()
-  [https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white]()
-	[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]()
+<div style="display: inline_block><br/>
+  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white()
+  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white()
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white()
+</div>
 --->
 
 ![Stefany GitHub stats](https://github-readme-stats.vercel.app/api?username=Sttefanyy&show_icons=true&theme=radical)
