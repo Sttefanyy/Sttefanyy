@@ -1,5 +1,5 @@
 # Bem-vindo ao Meu Perfil do GitHub. 👋
-## Olá! Eu sou a Stefany Matos 😊
+## Olá! Eu sou a Stefany 😊
 
 ### Veja meus trabalhos ou entre em contato em: 
 
