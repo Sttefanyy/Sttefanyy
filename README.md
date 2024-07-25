@@ -29,9 +29,21 @@
 ### Frameworks 🚀
 <div style="display: inline_block"><br/>
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" alt="Tkinter" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" alt="Tkinter" src=""/>
 </div>
 
+### Office 🚀
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</div>
+
+### Cursos 🚀
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+   <img align="center" alt="Curso em vídeo" src=""/>
+</div>
 
 
 <!---
