@@ -9,6 +9,26 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521974006710)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sou.stefany300@gmail.com)
 
+## Meus projetos
+
+<details open> 
+  
+  <p align="left">
+  <a href="https://github.com/Sttefanyy/Projeto-AbapRJ"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Projeto-AbapRJ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
+    
+    
+  <a href="https://github.com/Ary-Pedro/Manipulador-de-Imagem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Manipulador-de-Imagem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+ 
+    
+    <a href="https://github.com/Ary-Pedro/Sistema-academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="AcademiaCrud"></a>
+    
+    <a href="https://github.com/Ary-Pedro/Sistema-vendas-Deaaz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-vendas-Deaaz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="autônomo"></a> 
+
+  <a href="https://replit.com/@PedroCezar2"><img alt="Minha caminhada" title="All Practice" src="https://custom-icon-badges.demolab.com/badge/-The%20Road%20So%20Far-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+
+</details>
+
 
 ## Stats 📊
 ![Stefany GitHub stats](https://github-readme-stats.vercel.app/api?username=Sttefanyy&show_icons=true&theme=radical)
