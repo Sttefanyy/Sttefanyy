@@ -42,7 +42,7 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
   <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-   <img align="center" alt="Curso em vídeo" src=""/>
+  <a href="#"><img alt="cursoemvideo" src="https://img.shields.io/badge/curso%20em%20video-0056D2.svg?logo=youtubekids&logoColor=white"></a>
 </div>
 
 
