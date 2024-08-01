@@ -17,14 +17,29 @@
   <a href="https://github.com/Sttefanyy/Projeto-AbapRJ"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Projeto-AbapRJ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
     
     
-  <a href="https://github.com/Ary-Pedro/Manipulador-de-Imagem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Manipulador-de-Imagem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+  <a href="https://github.com/Sttefanyy/Floricultura-Bella-s-Flores"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Floricultura-Bella-s-Flores&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
  
-    
-    <a href="https://github.com/Ary-Pedro/Sistema-academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="AcademiaCrud"></a>
-    
-    <a href="https://github.com/Ary-Pedro/Sistema-vendas-Deaaz"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ary-Pedro&repo=Sistema-vendas-Deaaz&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="autônomo"></a> 
+      <a href="https://github.com/Sttefanyy/Sistema_Academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Sistema_Academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
 
-  <a href="https://replit.com/@PedroCezar2"><img alt="Minha caminhada" title="All Practice" src="https://custom-icon-badges.demolab.com/badge/-The%20Road%20So%20Far-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+        <a href="https://github.com/Sttefanyy/DesfiosQuanabara"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=
+DesfiosQuanabara&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+
+
+  <a href="https://github.com/Sttefanyy/Grid"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=
+Grid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+
+
+
+    <a href="https://github.com/Sttefanyy/MatrizIMG2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=
+MatrizIMG2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+
+    <a href="https://github.com/Sttefanyy/MatrizIMG"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=
+MatrizIMG&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+
+
+   <a href="https://github.com/Sttefanyy/Site_de_Livros"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=
+Site_de_Livros&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+  
   </p>
 
 </details>
