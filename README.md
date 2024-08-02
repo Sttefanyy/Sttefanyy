@@ -20,7 +20,7 @@
   <a href="https://github.com/Sttefanyy/Floricultura-Bella-s-Flores"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Floricultura-Bella-s-Flores&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
 
 
-   <a href="https://github.com/Sttefanyy/Sistema_Academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Sistema_Academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
+   <a href="https://github.com/Sttefanyy/Sistema-academia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Sistema-academia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
     
     
 
