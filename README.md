@@ -14,6 +14,17 @@
 <details open> 
   
   <p align="left">
+
+
+
+  <a href="https://github.com/Sttefanyy/GaleriaDeFotos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Grid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+
+  
+
+  <a href="https://github.com/Sttefanyy/GerenciadorDeProdutos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Grid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+
+  
+    
   <a href="https://github.com/Sttefanyy/Projeto-AbapRJ"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Projeto-AbapRJ&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
     
     
@@ -26,11 +37,6 @@
 
    <a href="https://github.com/Sttefanyy/DesfiosQuanabara"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=DesfiosQuanabara&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
     
-    
-
-  <a href="https://github.com/Sttefanyy/Grid"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Grid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
-
-  
 
    <a href="https://github.com/Sttefanyy/MatrizIMG"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=MatrizIMG&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="Ong"></a>
     
