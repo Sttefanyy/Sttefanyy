@@ -17,11 +17,11 @@
 
 
 
-  <a href="https://github.com/Sttefanyy/GaleriaDeFotos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Grid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+  <a href="https://github.com/Sttefanyy/GaleriaDeFotos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=GaleriaDeFotos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
 
   
 
-  <a href="https://github.com/Sttefanyy/GerenciadorDeProdutos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=Grid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
+  <a href="https://github.com/Sttefanyy/GerenciadorDeProdutos"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sttefanyy&repo=GerenciadorDeProdutos&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="PhotoEffect"></a> 
 
   
     
